@@ -22,11 +22,11 @@
 #stp2024.heading_unnumbered[Введение]
 // (Актуальность темы курсовой работы; цель и перечень задач, которые планируется решить; детальная постановка задачи)
 
-#include "system_architecture.typ"
-#include "platform.typ"
-#include "justification.typ"
-#include "functions.typ"
-#include "program_architecture.typ"
+#include "01_system_architecture.typ"
+#include "02_platform.typ"
+#include "03_justification.typ"
+#include "04_functions.typ"
+#include "05_program_architecture.typ"
 
 #pagebreak()
 #stp2024.heading_unnumbered[Заключение]
